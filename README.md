@@ -17,7 +17,7 @@ Check out the [project site ](http://caffe.berkeleyvision.org/)for all the detai
 
 and step-by-step examples.
 ## Windows Setup
-Requirements: Visual Studio 2013, CUDA 7.5.This caffe is from MS：[MicrosoftCaffe](https://github.com/Microsoft/caffe)
+Requirements: Visual Studio 2013,Dlib-18.17，OpenCV-2.4.10，CUDA 7.5.This caffe is from MS：[MicrosoftCaffe](https://github.com/Microsoft/caffe)
 
 ## Build
  Open CommonSettings.props,channge: CpuOnlyBuild true or false,UseCuDnn true or false,CudaVersion.
