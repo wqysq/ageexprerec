@@ -14,6 +14,7 @@ Check out the [project site ](http://caffe.berkeleyvision.org/)for all the detai
 [BAIR reference models](http://caffe.berkeleyvision.org/model_zoo.html) and the [community model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 [Installation instructions](http://caffe.berkeleyvision.org/installation.html)
+
 and step-by-step examples.
 ## Windows Setup
 Requirements: Visual Studio 2013, CUDA 7.5.This caffe is from MS：[MicrosoftCaffe](https://github.com/Microsoft/caffe)
