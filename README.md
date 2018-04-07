@@ -24,13 +24,13 @@ Download dlib-18.17 [from Baidu Yun](https://pan.baidu.com/s/1gey9Wd1),  then yo
 In this project,  I use dlib for face detection.
 
 ## OpenCV
-Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/), in this project, I use OpenCV Mat read and write data.
+Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/),  in this project,  I use OpenCV Mat read and write data.
 
 ## Build
- Open CommonSettings.props,channge: CpuOnlyBuild true or false,UseCuDnn true or false,CudaVersion.
+ Open CommonSettings.props,channge: CpuOnlyBuild true or false, UseCuDnn true or false, CudaVersion.
  Now, you should be able to build .\windows\libcaffe,generate  libcaffe.lib.
 ## Test
-modify classification project, add classification.h multi_recognition_gpu.h multi_recognition_gpu.cpp and multifenlei.cpp in classification project
+modify classification project, add classification.h multi_recognition_gpu.h multi_recognition_gpu.cpp and multifenlei.cpp in classification project.
 
 ## Result
 ![Result](https://github.com/wqysq/ageexprerec/blob/master/classification/result.png)
