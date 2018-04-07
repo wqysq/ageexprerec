@@ -30,4 +30,4 @@ Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/),in this projec
  Open CommonSettings.props,channge: CpuOnlyBuild true or false,UseCuDnn true or false,CudaVersion.
  Now, you should be able to build .\windows\libcaffe,generate  libcaffe.lib.
 ## Test
-modify classification project，add .cpp and .h
+modify classification project，add classification.h multi_recognition_gpu.h multi_recognition_gpu.cpp and multifenlei.cpp in classification project
