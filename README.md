@@ -33,4 +33,4 @@ Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/),in this projec
 modify classification project，add classification.h multi_recognition_gpu.h multi_recognition_gpu.cpp and multifenlei.cpp in classification project
 
 ## Result
-![Result](https://github.com/wqysq/ageexprerec/result.png)
+![Result](https://github.com/wqysq/ageexprerec/classification/result.png)
