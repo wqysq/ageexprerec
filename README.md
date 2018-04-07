@@ -31,3 +31,6 @@ Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/),in this projec
  Now, you should be able to build .\windows\libcaffe,generate  libcaffe.lib.
 ## Test
 modify classification project，add classification.h multi_recognition_gpu.h multi_recognition_gpu.cpp and multifenlei.cpp in classification project
+
+## Result
+![Result](https://github.com/wqysq/ageexprerec/blob/master/classification/result.png)
