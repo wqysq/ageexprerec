@@ -17,11 +17,11 @@ Check out the [project site ](http://caffe.berkeleyvision.org/)for all the detai
 
 and step-by-step examples.
 ## Windows Setup
-Requirements: Visual Studio 2013,Dlib-18.17，OpenCV-2.4.10，CUDA 7.5.This caffe is from MS：[MicrosoftCaffe](https://github.com/Microsoft/caffe)
+Requirements: Visual Studio 2013, Dlib-18.17, OpenCV-2.4.10, CUDA 7.5. This caffe is from MS：[MicrosoftCaffe](https://github.com/Microsoft/caffe)
 
 ## Dlib
-Download dlib-18.17 [from Baidu Yun](https://pan.baidu.com/s/1gey9Wd1), then you should cmake dlib generate dlib.lib.
-In this project, I use dlib for face detection.
+Download dlib-18.17 [from Baidu Yun](https://pan.baidu.com/s/1gey9Wd1),  then you should cmake dlib generate dlib.lib.
+In this project,  I use dlib for face detection.
 
 ## OpenCV
 Download OpenCV-2.4.10 [from OpenCV website](https://opencv.org/), in this project, I use OpenCV Mat read and write data.
